@@ -101,6 +101,7 @@ body {
     animation-name: ball;
     animation-duration: 2s;
     animation-iteration-count: 1;
+    animation-fill-mode: forwards;
 }
 
 
