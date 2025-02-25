@@ -9,7 +9,7 @@ https://annapvlv.github.io/evt/
 <div style='display: flex;'>
     <img style ="border-radius: 20px;" src='phototg.jpg' width=200>
     <span style='margin-left: 20px;'>
-        <span style='font-size: 25px; font-weight: bold; padding-bottom: 10px;'>Павлова Анна Дмитриевна</span> <br>
+        <p style='font-size: 25px; font-weight: bold; padding-bottom: 10px;'>Павлова Анна Дмитриевна</p> <br>
         <b>Телефон:</b> +375 (29) 295-92-58 <br>
         <b>Email </b> pavlovaanyana@gmail.com <br>
         <b>Дата рождения:</b> 27.02.2005 <br>
