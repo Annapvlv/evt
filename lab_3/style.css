@@ -55,11 +55,6 @@ html {
 
 
 
-
-
-
-
-
   .radiobuttons { 
     display: inline-flex; 
   }
@@ -77,15 +72,15 @@ html {
     margin-right: 10px;
   }
   .radiobuttons input[type='radio']:checked + label {
-    background-color: #cbcbcb;
+    background-color: #f9f9f9;
   }
   
   .radiobuttons label:hover {
-    background-color: #ecf2ec;
+    background-color: #51b051;
   }
   
   .radiobuttons label:active {
-    background-color: #dbe4db;
+    background-color: #9295cc;
   }
   
 
@@ -102,10 +97,10 @@ html {
     width: 40%;
   }
   
-  .one { background-color: #ffd8d8; }
-  .two { background-color: #e4ffe4; }
-  .three { background-color: #ebf8ff; }
-  .four { background-color: #fffdeb; }
+  .one { background-color: #d01a1a; }
+  .two { background-color: #32b732; }
+  .three { background-color: #1d8ac4; }
+  .four { background-color: #dfcf40; }
   
   
   .extra-header,section {
