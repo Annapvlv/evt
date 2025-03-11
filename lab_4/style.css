@@ -181,15 +181,16 @@ html {
 #parent_3 .child:nth-child(2) { grid-area: b; }
 #parent_3 .child:nth-child(3) { grid-area: c; }
 
-.one { background-color: #ffd8d8; }
-.two { background-color: #e4ffe4; }
-.three { background-color: #ebf8ff; }
-.four { background-color: #fffdeb; }
-.five { background-color: #efe7d8; }
-.six { background-color: #f2ebff; }
-.seven { background-color: #f6e9f5; }
-.eight { background-color: #ebffff; }
-.nine { background-color: #eae3fc; }
+.one { background-color: #a75353; }
+.two { background-color: #73a873; }
+.three { background-color: #6f98ae; }
+.four { background-color: #c2b759; }
+.five { background-color: #e39c18; }
+.six { background-color: #6a5a88; }
+.seven { background-color: #c148b7; }
+.eight { background-color: #4ab6b6; }
+.nine { background-color: #8152f7; }
+
 
 
 .dop-header,section {
