@@ -64,11 +64,11 @@ body {
 }
 
 
-.word.first { background-color: #ffc3c3; left: 10px; }
-.word.second { background-color: #d5ffd5; left: calc(10px + 67px + 4px); }
-.word.third { background-color: #c5c5ff; left: calc(10px + 67px + 4px + 23px + 4px); }
-.word.fourth { background-color: #ffffd1; left: calc(10px + 67px + 4px + 23px + 4px + 53px + 4px); }
-.word.fifth { background-color: #b4e6ff; left: calc(10px + 67px + 4px + 23px + 4px + 53px + 4px + 80px + 4px); }
+.word.first { background-color: #c73434; left: 10px; }
+.word.second { background-color: #3fca3f; left: calc(10px + 67px + 4px); }
+.word.third { background-color: #19199c; left: calc(10px + 67px + 4px + 23px + 4px); }
+.word.fourth { background-color: #c6c61f; left: calc(10px + 67px + 4px + 23px + 4px + 53px + 4px); }
+.word.fifth { background-color: #b52acb; left: calc(10px + 67px + 4px + 23px + 4px + 53px + 4px + 80px + 4px); }
 
 article h3 + img + p::first-letter {
     font-size: 200%;
